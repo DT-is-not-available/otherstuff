@@ -2,4 +2,4 @@ hostile
 true
 true
 50
-200
+130
