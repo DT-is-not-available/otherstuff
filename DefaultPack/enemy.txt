@@ -1,5 +1,5 @@
 hostile
 true
 true
-80
-115
+50
+300
